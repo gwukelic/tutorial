@@ -1,5 +1,5 @@
 id: 7b7eabe6-a52a-4e19-8bf3-9015eadbbed0
-dataAssetResourceName: protobuf://git@github.com:gwukelic/tutorial/event_schemas/OrderCreated.proto:tutorial.OrderCreated
+dataAssetResourceName: postgres://prod.store.com:5432:tutorial.public.order_details
 spec-version: 0.1.0
 name: OrderDetails
 namespace: Tutorial
